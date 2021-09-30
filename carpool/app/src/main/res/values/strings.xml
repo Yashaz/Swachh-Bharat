@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swachbharat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_carpooldetail">carpooldetail</string>
+    <string name="gcm_defaultSenderId">swachhbharat-1271</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_notifpage">notifpage</string>
+    <string name="title_activity_notify">notify</string>
+</resources>
